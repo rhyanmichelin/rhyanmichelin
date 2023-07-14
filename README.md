@@ -3,6 +3,7 @@
 - 🌱 I am 19 years old
 - 🎓 Graduated as a Computer Technician by IFSP.
 - 📚 Studying higher education in Systems Analysis and Development.
+- 🤖 Future AI expert!
  ##
 <div align="center">
   <a href="https://github.com/rhyanmichelin">
