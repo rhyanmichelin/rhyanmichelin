@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I am 19 years old
+- 🌱 I am 20 years old
 - 🎓 Graduated as a Computer Technician by IFSP.
 - 📚 Studying higher education in Systems Analysis and Development.
 - 🚀 Future AI expert!
